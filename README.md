@@ -16,7 +16,14 @@ I am a passionate **Software Developer** and a **Final-Year Computer Science & E
 
 ### 🚀 Achievements
 - Developed several impactful projects like IoT-based systems, price trackers, and compiler design.  
-- Completed internships at **Rimo LLC, Japan**, and **Banao Technologies, India**.  
+- Completed internships at **Rimo LLC, Japan**, and **Banao Technologies, India**.
+- 
+### 📈 GitHub Stats
+![Chahit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChahitKolte2112&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChahitKolte2112&layout=compact&theme=radical)
+
+
 
 ### 🤝 Let's Collaborate!
 I'm looking to collaborate on projects related to:  
