@@ -3,7 +3,7 @@
 ### 🌟 About Me
 I am a passionate **Software Developer** and a **Final-Year Computer Science & Engineering Student** at **IIITDM Jabalpur, India**. I love diving deep into solving challenging problems and exploring new technologies. 
 
-- 🔭 **Currently Working On**: Building a Zoom meeting bot and developing a voice assistant web application with real-time communication.  
+- 🔭 **Currently Working On**:Meeting Bot and developing a voice assistant web application with real-time communication.  
 - 🌱 **Currently Learning**: Deep Learning and sharpening my problem-solving skills.  
 - 🎯 **Goals**: 
   - Become proficient in **C** and **C++** for development.  
